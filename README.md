@@ -6,4 +6,7 @@ Download the code and unzip the folder. Then go to edge://extensions or chrome:/
 
 Select Load Unpacked and select the unzipped folder. Click on the extension for it to start farming. 
 
-The array of some of the words to search up come from here: https://github.com/words/an-array-of-english-words
+
+Credits:
+
+The array of some of the words to search up come from here: https://github.com/words/an-array-of-english-words. The logo is Microsoft Rewards' logo. The code for the new window comes from http://skilifts.org/.
