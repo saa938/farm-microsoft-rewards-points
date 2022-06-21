@@ -1,0 +1,19 @@
+{
+  "name": "Microsoft Rewards Points",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "description": "Get Microsoft Rewards points passively",
+  "icons": {
+    "16": "icon/rewards16.png",
+    "32": "icon/rewards32.png",
+    "48": "icon/rewards48.png",
+    "128": "icon/rewards128.png"
+  },
+  "browser_action": {
+        "default_popup": "popup/popup.html"
+  },
+  "permissions": [
+    "debugger",
+    "tabs"
+  ]
+}
